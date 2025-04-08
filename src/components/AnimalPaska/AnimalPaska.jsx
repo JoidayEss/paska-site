@@ -4,7 +4,7 @@ import s from "./AnimalPaska.module.css";
 const AnimalPaska = () => {
   return (
     <div className={s.easter_bunny}>
-      <img src="../../../public/kroluk.webp" alt="bunny" />
+      <img src="/kroluk.webp" alt="bunny" />
     </div>
   );
 };
